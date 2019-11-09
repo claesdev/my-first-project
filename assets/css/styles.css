@@ -1,0 +1,63 @@
+/* font-family: 'Yeon Sung', cursive;
+font-family: 'Lakki Reddy', cursive; */
+
+body { background-color: #ACACAC; }
+
+.tor {
+    border: 3px solid black;
+    float: left;
+}
+h1 { 
+    color: lightblue; 
+    text-align: center;
+    line-height: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: grey;
+}
+ul {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+main {
+    background-color: #aaa;
+}
+
+.profile {
+    float: left;
+}
+a.nav-link:hover {
+    background-color: #bbb;
+    border-bottom: 1px solid black;
+}
+header div.banner h1{margin-bottom:0;}
+nav {
+    display: flex;
+    justify-content: center;
+}
+section {
+    border: 3px solid red;
+    padding-bottom: 0;
+}
+
+article#wolfas { clear: left; }
+article#wolfas img {
+    float: right;
+    border: 2px solid orange;
+}
+
+section.dragons {
+    color: #FEA839;
+    background-color: #270A04;
+}
+
+section.dragons img {
+    float: left;
+    margin-right: 5px;
+}
+
+section.dragons article {
+    margin: 0 10px;
+}
+section.dragons article h2, section.dragons article h3 { font-family: 'Yeon Sung', cursive; }
+section.dragons article p { font-family: 'Lakki Reddy', cursive; }

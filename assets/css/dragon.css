@@ -1,0 +1,7 @@
+body { background-image: url('../img/Dragons/fire_background.jpg'); }
+h1 {
+    color: #FD854C; 
+    background-color: transparent;
+    font-family: 'Paytone One', sans-serif;
+}
+article#dragons { clear: both; }
